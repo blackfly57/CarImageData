@@ -1,2 +1,1 @@
-# carData3
-carData3
+# Car / Logo Image Dataset for the iOS App
